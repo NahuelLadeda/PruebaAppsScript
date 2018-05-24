@@ -6,3 +6,13 @@ function funcionPrueba() {
   
   return;
 }
+
+function funcionPrueba2(){
+
+var numero1 = 23;
+var numero2 = 22;
+  
+  var suma = numero1+numero2;
+
+return;
+}
